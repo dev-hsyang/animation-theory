@@ -28,3 +28,13 @@ https://github.com/dev-hsyang/animation-theory/assets/89997300/b18fc993-574e-402
 <img width="2067" alt="스크린샷 2023-08-06 오전 2 36 35" src="https://github.com/dev-hsyang/animation-theory/assets/89997300/37952b55-42b5-4d26-b862-0fd4326a1b64">
 <img width="2067" alt="스크린샷 2023-08-06 오전 2 36 45" src="https://github.com/dev-hsyang/animation-theory/assets/89997300/41c2ca07-453b-4b23-bc94-c0ae1daad3fd">
 
+
+# 3. Cloth Simulation - Spring mass system
+## 3-1. Result
+https://github.com/dev-hsyang/animation-theory/assets/89997300/6915241b-c897-45f2-9fb7-ca8794649b70
+
+## 3-2. Outline
+- Spring Mass System을 활용하여 옷감 시뮬레이션을 구현하였습니다.
+- Stretch Spring, Shear Spring, Bending Spring 등으로 옷감 형태를 유지하도록 각각의 스프링 상수를 적절히 조절하였습니다.
+- 애니메이션이 아니기 때문에, 시뮬레이션을 반복할 때마다 미세하게 달라지는 동작이 확인 가능합니다.
+<img width="1202" alt="스크린샷 2023-08-06 오전 2 50 42" src="https://github.com/dev-hsyang/animation-theory/assets/89997300/62595446-2f83-4036-a3a9-856f2e6f0e4b">
